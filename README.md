@@ -21,7 +21,9 @@
 "Success is not about how much money you make, but about the difference you make in other people's lives". Michele Obama🌟<br>
 My dreams 🚀</p>
 
-![Github Badge](https://img.shields.io/badge/be%20bolt-be%20bolt-orange) 
+<p>![Github Badge](https://img.shields.io/badge/be%20bolt-be%20bolt-orange)</p> 
+
+<div style="width:100%;height:0;padding-bottom:68%;position:relative;"><iframe src="https://giphy.com/embed/LiZe1RSOQuT0k" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cute-kawaii-LiZe1RSOQuT0k"></a>by</p>
 
 
 <p>🚧 Building ...</p>
