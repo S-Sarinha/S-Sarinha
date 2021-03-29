@@ -5,7 +5,7 @@
 
 
 ### About me
-👨‍👩‍👦In love with Thiago (my husband), with my son (Bruninho)!
-💻I am a frontend developer at @hibritoficial, a student of computer engineering at UFRN and MultiCloud {Oracle, AWS, Azure and Google Cloud}.
+### 👨‍👩‍👦In love with Thiago (my husband), with my son (Bruninho)!
+### 💻I am a frontend developer at @hibritoficial, a student of computer engineering at UFRN and MultiCloud {Oracle, AWS, Azure and Google Cloud}.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sarinha&count_private=true)
