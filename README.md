@@ -24,7 +24,7 @@ My dreams 🚀</p>
 ![Github Badge](https://img.shields.io/badge/be%20bolt-be%20bolt-orange)
 
 <p>
-<img border="0" alt="W3Schools" src="https://i.pinimg.com/originals/a2/d4/8ba2d48b5a1ef49de8c2cbcf7701d5a4a9.gif" width="100" height="100">
+<img border="0" alt="Sarah" src="https://i.pinimg.com/originals/a2/d4/8ba2d48b5a1ef49de8c2cbcf7701d5a4a9.gif" width="100" height="100">
 
 </p>
 
