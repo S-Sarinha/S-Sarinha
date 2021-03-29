@@ -24,7 +24,7 @@ My dreams 🚀</p>
 ![Github Badge](https://img.shields.io/badge/be%20bolt-be%20bolt-orange)
 
 <p>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/FIZ1QC610AAhi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cardcaptor-sakura-card-captor-FIZ1QC610AAhi">via GIPHY</a></p>
+<img border="0" alt="" src="sakura.gif" width="100" height="100">
 
 </p>
 
