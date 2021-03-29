@@ -24,11 +24,6 @@ My dreams 🚀</p>
 ![Github Badge](https://img.shields.io/badge/be%20bolt-be%20bolt-orange)
 
 <p>
-<img class="displayed" border="0" alt="" src="img/sakura.gif" width="150" height="150">
+🚧 Building ...<img class="displayed" border="0" alt="" src="img/sakura.gif" width="150" height="150">
 
 </p>
-
-
-
-
-<p>🚧 Building ...</p>
