@@ -10,3 +10,5 @@ I am a frontend developer at @hibritoficial, a student of computer engineering a
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sarinha)](https://github.com/S-Sarinha/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sarinha&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=S-Sarinha&repo=github-readme-stats)](https://github.com/S-Sarinha/github-readme-stats)
