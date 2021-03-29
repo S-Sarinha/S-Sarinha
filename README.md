@@ -7,10 +7,18 @@
 ### About me
 
 <ul>
+    <li>💁Woman tech</li>
     <li>👨‍👩‍👦In love with Thiago (my husband), with my son (Bruninho)!</li>
     <li>💻I am a frontend developer at @hibritoficial, a student of computer engineering at UFRN and MultiCloud {Oracle, AWS, Azure and Google Cloud}.</li>
 </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sarinha&count_private=true)
 
-[![Github Badge](https://img.shields.io/badge/be%20bolt-be%20bolt-orange)] 🚧 Building ...
+
+### Inspiration 💬
+
+<p>the Bible 📘</p>
+<p>"Success is not about how much money you make, but about the difference you make in other people's lives". Michele Obama 🌟</p> 
+<p>My dreams 🚀</p>
+
+![Github Badge](https://img.shields.io/badge/be%20bolt-be%20bolt-orange) 🚧 Building ...
