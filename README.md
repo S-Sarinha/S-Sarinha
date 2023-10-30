@@ -12,8 +12,6 @@
     <li>💻I am a frontend developer at <a style="color:#FFFAFA" href="https://github.com/hibritoficial"> @hibritoficial</a> , a student of computer engineering at UFRN and MultiCloud {Oracle, AWS, Azure and Google Cloud}.</li>
 </ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Sarinha&count_private=true)
-
 
 ### Inspiration 💬
 
